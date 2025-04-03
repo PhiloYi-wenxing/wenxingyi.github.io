@@ -54,7 +54,7 @@ My name is **Wenxing Yi**, and I am currently pursuing a Master's degree in Ecol
 - **GitHub**：[https://github.com/WenxingYi](https://github.com/PhiloYi-wenxing)]
 
 
-### **日文版**
+
 
 ## 私について
 
