@@ -4,8 +4,8 @@ My name is **Wenxing Yi**, and I am currently pursuing a Master's degree in Ecol
 
 ### Education
 
-- **Institute of Botany, Chinese Academy of Sciences**, Master's in Ecology, GPA: 3.78/4.0
-- **Inner Mongolia University**, Bachelor's in Ecology, GPA: 3.84/4.0 (Rank 1/32)
+- **Institute of Botany, Chinese Academy of Sciences**, Master's in Ecology
+- **Inner Mongolia University**, Bachelor's in Ecology
 - **Peking University**, Exchange Program, Focused on Ecological Modeling and Evolution Research
 
 ### Research Interests
@@ -31,8 +31,8 @@ My name is **Wenxing Yi**, and I am currently pursuing a Master's degree in Ecol
 
 ### 教育背景
 
-- **中国科学院植物研究所**，生态学硕士，GPA：3.78/4.0
-- **内蒙古大学**，生态学学士，GPA：3.84/4.0（排名1/32）
+- **中国科学院植物研究所**，生态学硕士
+- **内蒙古大学**，生态学学士
 - **北京大学**，交换生项目，专注于生态建模与进化研究
 
 ### 研究领域
@@ -62,8 +62,8 @@ My name is **Wenxing Yi**, and I am currently pursuing a Master's degree in Ecol
 
 ### 学歴
 
-- **中国科学院植物研究所**、生態学修士、GPA：3.78/4.0
-- **内モンゴル大学**、生態学学士、GPA：3.84/4.0（学年1位/32）
+- **中国科学院植物研究所**、生態学修士
+- **内モンゴル大学**、生態学学士
 - **北京大学**、交換留学プログラム、エコロジカルモデリングと進化研究に専念
 
 ### 研究分野
